@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+Qinzhao Li
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+I like git :)
 
 ---
 
@@ -15,11 +15,11 @@ enter a fun fact about yourself below:
 1) [repo-management](./repo-management) 📺
     - **[Install Git](./repo-management/git-install.md)** <<
     - **[Setup the Repository](./repo-management/repo-setup.md)** <<
-    
+
 2) [branch-setup](./branch-setup) 🎋
     - **[Create a Branch](./branch-setup/create-a-branch.md)** <<
     - [What are PRs? Merge vs. Rebase](./branch-setup/prs.md)
-    
+
 3) [version-control](./version-control) 🔄
     - [Squashing Commits](./version-control/squashing.md)
     - **[Cherry Picking and Tagging Commits](./version-control/cherry-and-tagging.md)** <<
@@ -34,6 +34,8 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
+approval status: approved
 
-signed by: ___
+signed by: AD
+
+date: August 26, 2024
