@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+[*Nigel Varghese*]
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+[*I like boba*]
 
 ---
 
@@ -34,6 +34,8 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
+approval status: __approved_
 
-signed by: ___
+signed by: _AD__
+
+date:8/27/24
