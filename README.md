@@ -3,11 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+Aarush Arya
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
-
+I am the goat
 ---
 
 ## TABLE OF CONTENTS
@@ -34,6 +33,8 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
+approval status: Approved
 
-signed by: ___
+signed by: AD
+
+9/5/2024
